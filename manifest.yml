@@ -1,6 +1,8 @@
 ---
 name : mark-reid
 website : http://mark.reid.name/
+git_url : git://github.com/jekyllbootstrap/theme-mark-reid.git
+source_url : https://github.com/jekyllbootstrap/theme-mark-reid
 author : 
   name : Mark Reid 
   website : http://mark.reid.name/
